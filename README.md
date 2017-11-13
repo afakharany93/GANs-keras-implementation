@@ -1,6 +1,6 @@
 # Implementing GANs using keras
 
-I'm new to GANs and a big fan of keras, so I made this project in which I implement as I learn diffrent flavors of generative adverserial neural networks (GANs), I'm using keras with tensorflow back end in jupyter notebooks.
+I'm new to GANs and a big fan of keras, so I made this project in which I implement as I learn different flavors of generative adverserial neural networks (GANs), I'm using keras with tensorflow back end in jupyter notebooks.
 
 ## Good places to understand GANs
 This project is all about implemntation, to get a good idea about what are GANs here are some good resources:
