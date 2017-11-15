@@ -12,7 +12,7 @@ This project is all about implemntation, to get a good idea about what are GANs 
 
 ## Order of Folders
 If you are a beginner with GANs and want to learn step by step the implementation, here is the order of folders to check:
-- 001_simple_DCGAN_mnist
+- [001_simple_DCGAN_mnist](https://github.com/afakharany93/GANs-keras-implementation/tree/master/001_simple_DCGAN_mnist)
 
 
 ## Dependencies 
